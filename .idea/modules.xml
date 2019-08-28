@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/face_processing.iml" filepath="$PROJECT_DIR$/.idea/modules/face_processing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/face_processing-build.iml" filepath="$PROJECT_DIR$/.idea/modules/face_processing-build.iml" />
     </modules>
   </component>
 </project>
